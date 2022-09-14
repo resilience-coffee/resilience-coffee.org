@@ -2,11 +2,11 @@
 
 ## What
 
-A twice monthly virtual meetup discussing topics related to resilience engineering.
+A twice monthly virtual meetup discussing topics related to resilience engineering. We loosely follow a [Lean Coffee](http://leancoffee.org/) format.
 
 ## Why
 
-We are more resilient when we learn from each other's approaches and adapt.
+We are more resilient when we learn from each others' approaches and adapt.
 
 ## When
 
