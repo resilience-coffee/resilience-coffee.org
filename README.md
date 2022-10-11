@@ -12,7 +12,7 @@ We are more resilient when we learn from each others' approaches and adapt.
 
 ## When, Where, How
 
-First Thursdays are [APAC](https://en.m.wikipedia.org/wiki/Asia-Pacific) mornings and Americas' afternoons.
+First Thursdays are Americas' afternoons and Friday morning in [APAC](https://en.m.wikipedia.org/wiki/Asia-Pacific).
 
 Third Fridays are [EMEA](https://en.m.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa) afternoons and Americas' mornings.
 
