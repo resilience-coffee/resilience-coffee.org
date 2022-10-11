@@ -1,5 +1,7 @@
 # Resilience Coffee
 
+![A chipped cup of coffee](images/banner.jpeg)
+
 ## What
 
 A twice monthly virtual meetup discussing topics related to resilience engineering. We loosely follow a [Lean Coffee](http://leancoffee.org/) format.
