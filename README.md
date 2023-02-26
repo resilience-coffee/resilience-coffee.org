@@ -18,4 +18,6 @@ Third Fridays are [EMEA](https://en.m.wikipedia.org/wiki/Europe,_the_Middle_East
 
 <iframe src="https://calendar.google.com/calendar/embed?height=250&wkst=1&bgcolor=%237986CB&ctz=America%2FChicago&showTitle=0&showDate=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&src=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="250" frameborder="0" scrolling="no"></iframe>
 
-<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a>
+----
+
+<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md)
