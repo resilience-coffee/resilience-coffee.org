@@ -22,7 +22,7 @@ On first Thursdays we have sessions that are time-zone friendly to Americas' aft
 
 On third Fridays we have sessions for [EMEA](https://en.m.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa) afternoons and Americas' mornings.
 
-We use meet on a [meet.coop](https://www.meet.coop) video call, and track our conversations on a [GitHub project board](https://github.com/orgs/resilience-coffee/projects/1/views/1).
+We meet on a [meet.coop](https://www.meet.coop) video call, and track our conversations on a [GitHub project board](https://github.com/orgs/resilience-coffee/projects/1/views/1).
 
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([iCal version](https://calendar.google.com/calendar/ical/jrgft2bkabbss6o282dmkqsh3o%40group.calendar.google.com/public/basic.ics)), or join our [Google Group](https://groups.google.com/g/resilience-coffee) to receive calendar invites via Email.
 
