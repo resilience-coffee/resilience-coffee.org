@@ -1,8 +1,6 @@
-# Resilience Coffee
+Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
 
 ![A chipped cup of coffee](images/banner.jpeg)
-
-Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
 
 
 ## What
