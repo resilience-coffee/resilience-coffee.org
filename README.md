@@ -5,12 +5,15 @@
 
 ## What
 
-Resilience Coffee aims to provide a welcoming space for individuals building resilient systems to come together and learn from each other.
+Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
 
 
 ## Why
 
 We believe resilience is strengthened when we learn from each others' experiences and adapt together. By fostering a supportive community where members can openly share their insights, challenges, and successes, we empower each other to navigate the complexities of resilience engineering more effectively.
+
+A community member said they join because:
+> Good resilience engineering requires [experience](https://how.complexsystems.fail/#18). By talking to each other, we don't all need to go through the same painful experiences on our own. Instead, we can share what we have learned, tried, what worked, what didn't work, and the context we were in.
 
 
 ## When, Where, How
@@ -32,9 +35,4 @@ Join our [Google Group](https://groups.google.com/g/resilience-coffee) to receiv
 ----
 
 <a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md)
-
-
-
-
-
 
