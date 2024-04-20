@@ -2,10 +2,12 @@
 
 ![A chipped cup of coffee](images/banner.jpeg)
 
+Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
+
 
 ## What
 
-Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
+Our virtual meetups, held twice a month, provide an opportunity to engage in thoughtful discussions on topics related to building resilient systems. We loosely follow a [Lean Coffee](http://leancoffee.org/) format, encouraging open dialogue and shared learning.
 
 
 ## Why
@@ -18,8 +20,6 @@ A community member said they join because:
 
 ## When, Where, How
 
-Our virtual meetups, held twice a month, provide an opportunity to engage in thoughtful discussions on topics related to building resilient systems. We loosely follow a [Lean Coffee](http://leancoffee.org/) format, encouraging open dialogue and shared learning.
-
 On first Thursdays we have sessions that are time-zone friendly to Americas' afternoons and (next day) Friday mornings in [APAC](https://en.m.wikipedia.org/wiki/Asia-Pacific).
 
 On third Fridays we have sessions for [EMEA](https://en.m.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa) afternoons and Americas' mornings.
@@ -28,11 +28,9 @@ We use meet on a [meet.coop](https://www.meet.coop) video call, and track our co
 
 Join our [Google Group](https://groups.google.com/g/resilience-coffee) to receive calendar invites.
 
-
-
 <iframe src="https://calendar.google.com/calendar/embed?height=250&wkst=1&bgcolor=%237986CB&ctz=America%2FChicago&showTitle=0&showDate=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&src=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="250" frameborder="0" scrolling="no"></iframe>
+
 
 ----
 
 <a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md)
-
