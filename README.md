@@ -24,11 +24,16 @@ On third Fridays we have sessions for [EMEA](https://en.m.wikipedia.org/wiki/Eur
 
 We meet on a [meet.coop](https://www.meet.coop) video call, and track our conversations on a [GitHub project board](https://github.com/orgs/resilience-coffee/projects/1/views/1).
 
-Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [iCal calendar](https://calendar.google.com/calendar/ical/jrgft2bkabbss6o282dmkqsh3o%40group.calendar.google.com/public/basic.ics), or join our [Google Group](https://groups.google.com/g/resilience-coffee) to receive calendar invites via Email.
-
 <iframe src="https://calendar.google.com/calendar/embed?height=250&wkst=1&bgcolor=%237986CB&ctz=America%2FChicago&showTitle=0&showDate=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&src=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="250" frameborder="0" scrolling="no"></iframe>
 
+### Subscribe to calendar invites
+
+| Application | How to Subscribe |
+|---|---|
+| Google Calendar | [Add this calendar to your shared calendars](https://calendar.google.com/calendar/u/0?cid=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)  |
+| Email | Join our [Google Group](https://groups.google.com/g/resilience-coffee) |
+| Other calendar applications | [Copy this link to our iCal calendar](https://calendar.google.com/calendar/ical/jrgft2bkabbss6o282dmkqsh3o%40group.calendar.google.com/public/basic.ics) and subscribe in your calendar app (don't download the file) |
 
 ----
 
-<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md)
+<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md) | [GitHub](https://github.com/resilience-coffee/resilience-coffee.org)
