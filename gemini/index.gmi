@@ -1,0 +1,53 @@
+# Resilience Coffee
+
+Resilience Coffee aims to provide a welcoming space for individuals curious about building resilient systems to come together and learn from each other.
+
+=> images/banner.jpeg A chipped cup of coffee 
+
+
+## What
+
+Our virtual meetups, held twice a month, provide an opportunity to engage in thoughtful discussions on topics related to building resilient systems. We loosely follow a Lean Coffee[1] format, encouraging open dialogue and shared learning.
+
+=> http://leancoffee.org/ [1] Lean Coffee
+
+
+## Why
+
+We believe resilience is strengthened when we learn from each others' experiences and adapt together. By fostering a supportive community where members can openly share their insights, challenges, and successes, we empower each other to navigate the complexities of resilience engineering more effectively.
+
+A community member said they join because:
+
+> Good resilience engineering requires experience[2]. By talking to each other, we don't all need to go through the same painful experiences on our own. Instead, we can share what we have learned, tried, what worked, what didn't work, and the context we were in.
+
+=> https://how.complexsystems.fail/#18 [2] "experience"
+
+
+## When, Where, How
+
+On first Thursdays we have sessions that are time-zone friendly to Americas' afternoons and (next day) Friday mornings in APAC (Asia-Pacific).
+
+On third Fridays we have sessions for EMEA (Europe, Middle East, and Africa) afternoons and Americas' mornings.
+
+We meet on a meet.coop video call, and track our conversations on a GitHub project board.
+
+=> https://www.meet.coop meet.coop
+=> https://github.com/orgs/resilience-coffee/projects/1/views/1 GitHub project board
+
+
+### Subscribe to calendar invites
+
+=> https://calendar.google.com/calendar/u/0?cid=anJnZnQyYmthYmJzczZvMjgyZG1rcXNoM29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ Google Calendar: Add this calendar to your shared calendars
+=> https://groups.google.com/g/resilience-coffee Email: Join our Google Group
+=> https://calendar.google.com/calendar/ical/jrgft2bkabbss6o282dmkqsh3o%40group.calendar.google.com/public/basic.ics Other calendar applications: Copy this link to our iCal calendar and subscribe in your calendar app (don't download the file)
+
+
+## Other places
+
+=> https://www.resilience-coffee.org WWW
+=> https://rls.social/@resiliencecoffee Mastodon
+=> https://github.com/resilience-coffee/resilience-coffee.org GitHub
+
+---
+
+=> CODE_OF_CONDUCT.gmi Code of Conduct
