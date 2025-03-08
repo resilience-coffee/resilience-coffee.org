@@ -36,4 +36,4 @@ We meet on a [meet.coop](https://www.meet.coop) video call, and track our conver
 
 ----
 
-<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md) | [GitHub](https://github.com/resilience-coffee/resilience-coffee.org)
+<a rel="me" href="https://rls.social/@resiliencecoffee">Mastodon</a> | [Code of Conduct](https://github.com/resilience-coffee/resilience-coffee.org/blob/main/CODE_OF_CONDUCT.md) | [GitHub](https://github.com/resilience-coffee/resilience-coffee.org) | [Gemini](gemini://gemini.resilience-coffee.org)
