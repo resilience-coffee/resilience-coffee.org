@@ -15,6 +15,9 @@ We believe resilience is strengthened when we learn from each others' experience
 A community member said they join because:
 > Good resilience engineering requires [experience](https://how.complexsystems.fail/#18). By talking to each other, we don't all need to go through the same painful experiences on our own. Instead, we can share what we have learned, tried, what worked, what didn't work, and the context we were in.
 
+Another member says:
+> I always enjoy my time and leave with 10 more tabs open in my browser.
+
 
 ## When, Where, How
 
